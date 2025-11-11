@@ -1,5 +1,6 @@
-# 银河台球社区（Galaxy Billiards Community）
+<img width="2139" height="582" alt="WEB (3)" src="https://github.com/user-attachments/assets/1022b5e4-4218-4b84-a03e-62d31f796727" />
 
+# 银河台球社区（Galaxy Billiards Community）
 #### 欢迎来到 `银河台球社区`
 
 ## 联系方式
