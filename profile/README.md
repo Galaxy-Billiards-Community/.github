@@ -7,4 +7,4 @@
 - B站 ：[VRC银河台球社区](https://space.bilibili.com/3546844875459108)
 - QQ 群 ：[750258838](https://qm.qq.com/q/2wapngPDCc)
 - VRC Group ：[Galaxy Billiards](https://vrc.group/GAPOOL.5893)
-- 官方网站 ：`敬请期待`
+- 官方网站 ：[https://galaxy-pool.wangqaq.com/]
